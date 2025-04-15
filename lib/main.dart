@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Player {
-  String name;
-
-  Player(this.name);
-}
-
 void main() {
-  var nico = Player('nico');
   runApp(App());
 }
 
